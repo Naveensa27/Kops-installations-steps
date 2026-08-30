@@ -1,1 +1,0 @@
-# Kops-installations-steps
